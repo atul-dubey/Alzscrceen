@@ -18,7 +18,7 @@ if 'i' not in st.session_state:
 # Define usernames and passwords
 user_data = {
     "sophie": "12345",
-    "user2": "password2",
+    "user2": "password3",
     "admin": "adminpass"
 }
 
